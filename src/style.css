@@ -2,36 +2,10 @@
   margin-bottom: 20px;
 }
 
-.information {
+.label_class {
+  margin-bottom: 10px;
+}
+
+.block {
   display: block;
-  margin-bottom: 10px;
-}
-
-.registration {
-  display: block;
-}
-
-.registration__margin {
-  margin-bottom: 10px;
-}
-
-.radio {
-  margin-bottom: 10px;
-}
-
-.facts {
-  display: block;
-}
-
-.facts__margin {
-  margin-bottom: 10px;
-}
-
-.info {
-  display: block;
-
-}
-
-.info__margin {
-  margin-bottom: 10px;
 }
